@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-lightbulb
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"  - commentted out for ref on how to do links.
       - title: "Convention"
-        desc: "Find us at Adult **conventions** across Canada."
+        desc: "Find us at adult **conventions** across Canada."
         icon: fas fa-calendar
 
 # -------------------------------------
@@ -53,21 +53,21 @@ en: &DEFAULT_EN
 #        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
 #        image: assets/img/timeline/1.jpg
 #        alt:
-      - title: "Mosobox Founded"
-        year: "20XX"
+      - title: "Sukikisu Founded"
+        year: "2026"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Whatever Filler"
-        year: "20XX-20XX"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Sukikisu Founded"
-        year: "2026"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+#      - title: "Whatever Filler"
+#        year: "20XX-20XX"
+#        desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor."
+#        image: assets/img/timeline/3.jpg
+#        alt: image alt text
+#      - title: "Sukikisu Founded"
+#        year: "2026"
+#        desc: "Your description here, **Markdown** is fully supported."
+#        image: assets/img/timeline/4.jpg
+#        alt:
         # you can enforce the alignment
         align: right
     end: "Merchandise <br> With <br> Us!"
