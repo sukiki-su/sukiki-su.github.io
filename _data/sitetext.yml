@@ -22,15 +22,15 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Merchandise"
-        desc: "We import the hottest **adult toys from Japan** into Canada."
+        desc: "We import the hottest **adult toys** from Japan into Canada."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Production"
-        desc: "Supporting the creation of the next wave of weeb goods"
+        desc: "Supporting the **creation** of the next wave of weeb goods"
         icon: fas fa-wrench
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"  - commentted out for ref on how to do links.
       - title: "Convention"
-        desc: "Come find us at Adult conventions across Canada."
-        icon: fab fa-calendar
+        desc: "Find us at Adult **conventions** across Canada."
+        icon: fas fa-calendar
 
 # -------------------------------------
 #  portfolio:
@@ -74,7 +74,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Canada, vendor relations with independent artists and publishers"
+    body: "Canada, vendor relations with independent artists and publishers. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor. Sed sed nulla vestibulum, porta lectus vel, egestas mauris. Sed odio risus, volutpat vel nisi eget, convallis faucibus nisi. Nam gravida est metus, vitae sagittis erat tincidunt eu. Pellentesque non metus vulputate, congue quam sit amet, imperdiet ligula. "
     section: about
 
 # -------------------------------------
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: "The team behind Sukikisu."
-    subtext: "Experts in Canadian weeb, anime, merchaniding market."
+    subtext: "Experts in Canadian weeb, anime, merchaniding market. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor. Sed sed nulla vestibulum, porta lectus vel, egestas mauris. Sed odio risus, volutpat vel nisi eget, convallis faucibus nisi."
     section: team
     people:
       - name: "Moso"
@@ -123,22 +123,23 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      
-      - name: "Fee"
-        role: "Marketing"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in 
-          
+
+# -------------------------------------     
+#      - name: "Fee"
+#        role: "Marketing"
+#        image: assets/img/team/500x500.jpg
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in 
+# -------------------------------------          
 
   contact:
     title: "Contact Us"
-    text: "Please fill out any Inquiries below"
+    text: "Please fill out the form for inquiries"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
