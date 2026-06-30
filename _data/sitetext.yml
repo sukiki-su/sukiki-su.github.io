@@ -100,7 +100,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: "The team behind Sukikisu."
-    subtext: "Experts in Canadian weeb, anime, merchaniding market.""
+    subtext: "Experts in Canadian weeb, anime, merchaniding market."
     section: team
     people:
       - name: "Moso"
