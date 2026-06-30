@@ -70,7 +70,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Sell <br> With <br> Us!"
+    end: "Merchandise <br> With <br> Us!"
 # -------------------------------------
 
   about:
