@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Production"
         desc: "Supporting the **creation** of the next wave of weeb goods"
-        icon: fas fa-wrench
+        icon: fas fa-lightbulb
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"  - commentted out for ref on how to do links.
       - title: "Convention"
         desc: "Find us at Adult **conventions** across Canada."
