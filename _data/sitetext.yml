@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "We import the hottest **adult toys** from Japan into Canada."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Production"
-        desc: "Supporting the **creation** of the next wave of weeb goods"
+        desc: "Supporting the **creation** of the next wave of anime goods"
         icon: fas fa-lightbulb
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"  - commentted out for ref on how to do links.
       - title: "Convention"
@@ -55,8 +55,8 @@ en: &DEFAULT_EN
 #        alt:
       - title: "Sukikisu Founded"
         year: "2026"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        desc: "Realizing that there was a gap of commercially available Japanese adult product and the Canadian market, a small group of perverts decided to do something about it."
+        image: assets/img/timeline/onaho1.png
         alt:
 #      - title: "Whatever Filler"
 #        year: "20XX-20XX"
@@ -75,8 +75,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Canada, vendor relations with independent artists and publishers. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor. Sed sed nulla vestibulum, porta lectus vel, egestas mauris. Sed odio risus, volutpat vel nisi eget, convallis faucibus nisi. Nam gravida est metus, vitae sagittis erat tincidunt eu. Pellentesque non metus vulputate, congue quam sit amet, imperdiet ligula. "
+    text: "Canadian vendor relations with independent artists and publishers."
+    body: "A company by *perverts, for perverts*. A small team of dedicated Canadians providing availability and acessibility to the Japanese Adult Toy market. There's a lack of *sexy* and *hentai* products available in Canada for adults. We're here to fix that."
     section: about
 
 # -------------------------------------
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR TEAM"
     text: "The team behind Sukikisu."
-    subtext: "Experts in Canadian weeb, anime, merchaniding market. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eleifend sollicitudin nunc, eu auctor tortor. Sed sed nulla vestibulum, porta lectus vel, egestas mauris. Sed odio risus, volutpat vel nisi eget, convallis faucibus nisi."
+    subtext: "Experts in Canadian weeb, anime, idol, and hentai merchaniding market. "
     section: team
     people:
       - name: "Moso"
@@ -111,20 +111,20 @@ en: &DEFAULT_EN
         social:
           - url: https://x.com/MosoBox
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
           - url: https://www.twitch.tv/mosobox
             icon: fab fa-twitch
       - name: "K1"
         role: "Lead Sales & Marketing"
         image: assets/img/team/K1.png
         social:
-          - url: https://x.com/
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          #- url: https://x.com/
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://linkedin.com
+          #  icon: fab fa-linkedin-in
 
 # -------------------------------------     
 #      - name: "Fee"
